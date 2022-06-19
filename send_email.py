@@ -19,10 +19,10 @@
 #                                                                                       #
 # Guide:                                                                                #
 # 1. Review/edit the Index.html message file being sent.                                #
-# 2. Review/edit the name, greeting, number substitutes below                           #
-# 3. Update the Send To Email Address below                                             #
-# 4. Update your Gmail address and Gmail app password below                             #
-# Launch by clicking run button in top right in VSCode or: py -3 send_email.py          #
+# 2. Review/edit the name, greeting, number substitutes below.                          #
+# 3. Update the Send To Email Address below.                                            #
+# 4. Update your Gmail address and Gmail app password below.                            #
+# 5. Launch by clicking run button in top right in VSCode or: py -3 send_email.py       #
 #########################################################################################
 
 import smtplib
